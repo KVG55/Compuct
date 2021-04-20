@@ -1,0 +1,175 @@
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.Cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Начальные\Compuct\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.Cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.Cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct — копия (2)\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.Cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2013\VB\Игры\CompactA1\Compuct\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\СompuctA1A1B\Compuct\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct — копия (2)\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.Cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2015\VB\игры\Compuct\Compuct after\Compuct after — копия\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2015\VB\игры\Compuct\Compuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2015\VB\игры\Compuct\Compuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2015\VB\игры\Compuct\Compuct after\Compuct after — копия\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Проекты приложений VS2019\VB NET\Игры\Сompuct after\Compuct after File1\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Проект Compuct\Compuct Next3\Compuct\obj\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\bin\Debug\Compuct.exe.config
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\bin\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\bin\Debug\Compuct.pdb
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\bin\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.vbprojAssemblyReference.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.AboutCompuct.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.Compuct1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.Form1.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.Information.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.Resources.resources
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.vbproj.GenerateResource.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.vbproj.CoreCompileInputs.cache
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.exe
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.xml
+C:\Users\Виталий Караваев\Documents\Программирование\Простые коды VB 05,08,10, 12, 13\В сеть\Compuct Next\2019 Compuct proj\Compuct Next3\Compuct\obj\Debug\Compuct.pdb

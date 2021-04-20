@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Compuct
+</name>
+</assembly>
+<members>
+<member name="T:Compuct.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Compuct.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Compuct.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:Compuct.My.Resources.Resources._1">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Icon, аналогичного (Значок).
+</summary>
+</member>
+<member name="P:Compuct.My.Resources.Resources.Information">
+<summary>
+  Ищет локализованную строку, похожую на 
+
+
+
+
+©Игра &quot;Компакт&quot;. 
+Геометрический, плиточный пасьянс, пазл.
+
+&quot;THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR O [остаток строки не уместился]&quot;;.
+</summary>
+</member>
+<member name="F:Compuct.AboutCompuct.drawFormat">
+ <summary>
+ прорисовка текста на форме
+ </summary>
+</member>
+<member name="F:Compuct.AboutCompuct.m_Random">
+ <summary>
+ объявление и декларация переменной генератора случайных значений
+ </summary>
+</member>
+<member name="F:Compuct.AboutCompuct.demoPen">
+ <summary>
+ создание объекта рисования с аргументом цвета
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Compuct.AboutCompuct.AboutBox1_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+ <summary>
+ прорисовка текста на форме
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:Compuct.AboutCompuct.Canvas1(System.Object,System.EventArgs)">
+ <summary>
+ ведущяя процедура прорисовки линий окаймляющих форму
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="T:Compuct.GameGrid">
+ <summary>
+ Extended DataGridView 
+ DoubleBuffered. Restricts user selection of cells.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:Compuct.GameGrid.OnRowPrePaint(System.Windows.Forms.DataGridViewRowPrePaintEventArgs)">
+ <summary>
+ OnRowPrePaint
+ Avoid DGV cell focussing
+ </summary>
+ <param name="e"></param>
+</member>
+<member name="M:Compuct.GameGrid.WndProc(System.Windows.Forms.Message@)">
+ <summary>
+ WndProc
+ Avoid DGV focussing, and catch Keypresses
+ </summary>
+ <param name="m"></param>
+</member>
+<member name="M:Compuct.Shape.GetAsyncKeyState(System.Int32)">
+ <summary>
+ API function and Constants used to detect Shift keydown
+ </summary>
+ <param name="vkey"></param>
+ <returns></returns>
+</member>
+<member name="T:Compuct.ShapePreview">
+ <summary>
+ Used for displaying a shape preview
+ </summary>
+</member>
+</members>
+</doc>
